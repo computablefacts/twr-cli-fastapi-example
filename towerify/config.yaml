@@ -1,0 +1,4 @@
+name: fastapi-example
+type: static
+config:
+  dockerfile: ./Dockerfile
